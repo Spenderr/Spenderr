@@ -1,6 +1,5 @@
-# 💫 About Me:
- ## Hello<br>
- ## This is Ahmed PATEL :)
+
+ # Hello<br> ## This is Ahmed PATEL :)
 
 
 ## 🌐 Socials:
